@@ -1,7 +1,6 @@
 # Dog vs Cat Image Classification using CNN
 
-This project uses a Convolutional Neural Network (CNN) built with TensorFlow
-to classify images as Dog or Cat.
+This project uses a Convolutional Neural Network (CNN) built with TensorFlow to classify images as Dog or Cat.
 
 ## Features
 - Binary image classification
